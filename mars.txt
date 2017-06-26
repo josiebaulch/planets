@@ -1,2 +1,3 @@
 Mars is the closest planet to Earth.
 It is red.
+The planet is home to many martians.
